@@ -5,6 +5,9 @@
   "license": "MIT",
   "dependencies": {
     "@types/node": "^12.12.14",
+    "express": "^4.17.1",
+    "sqlite3": "^4.1.0",
+    "typeorm": "^0.2.20",
     "typescript": "^3.7.2"
   },
   "devDependencies": {
